@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@serenity-js/serenity-bdd": "^2.33.8"
+  }
+}
